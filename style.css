@@ -31,7 +31,7 @@ nav ul {
     font-weight: 700;
 }
 
-.one {
+.shapeone {
     float: left;
     font-size: 26px;
     text-align: center;
@@ -43,20 +43,20 @@ nav ul {
     padding: 5px;
 }
 
-.two {
+.shapetwo {
     float: right;
     font-size: 24px;
     color: #233348;
     padding: 5px;
 }
 
-.navitems li {
+.navItems li {
     margin-right: 15px;
     list-style: none;
 
 }
 
-.navitems li a {
+.navItems li a {
     text-decoration: none;
     font-weight: 400;
     font-size: 18px;
@@ -66,7 +66,7 @@ nav ul {
 }
 
 /*headercontent*/
-header {
+.home{
     display: flex;
     align-items: center;
     justify-content: space-around;
@@ -74,6 +74,8 @@ header {
 }
 
 .headings {
+    font-size: 2rem;
+    font-weight: 700;
     line-height: 56px;
     color: #000000;
 }
@@ -113,7 +115,7 @@ header {
     margin-left: -100px;
 }
 
-.text {
+.titles {
     font-size: 16px;
     line-height: 56px;
     color: #000000;
@@ -121,7 +123,7 @@ header {
 
 }
 
-.rectangle {
+.line {
     width: 56px;
     height: 2px;
     background: #000000;
