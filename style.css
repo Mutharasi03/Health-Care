@@ -31,7 +31,7 @@ nav ul {
     font-weight: 700;
 }
 
-.shapeone {
+.shapeOne {
     float: left;
     font-size: 26px;
     text-align: center;
@@ -43,7 +43,7 @@ nav ul {
     padding: 5px;
 }
 
-.shapetwo {
+.shapeTwo {
     float: right;
     font-size: 24px;
     color: #233348;
@@ -198,7 +198,7 @@ nav ul {
     top: 40%;
 }
 
-.learnmore a {
+.learnMore a {
     text-align: center;
     text-decoration: none;
     position: absolute;
@@ -233,16 +233,16 @@ nav ul {
 }
 
 .leadingsection,
-.leadingrectangle {
+.leadingRectangle {
     margin: 0% 9%;
 }
 
-.leadingheading {
+.leadingHeading {
     font-weight: 700;
     font-size: 30px;
 }
 
-.learnmore2 a {
+.learnMore2 a {
     text-align: center;
     text-decoration: none;
     border: 1.4px solid #458FF6;
@@ -254,7 +254,7 @@ nav ul {
     padding: 10px 40px;
 }
 
-.learnmore2 {
+.learnMore2 {
     margin-top: 10%;
 }
 
@@ -271,7 +271,7 @@ nav ul {
     justify-content: space-between;
 }
 
-.downloadrectangle {
+.downloadRectangle {
     width: 56px;
     height: 2px;
     background: #000000;
@@ -318,7 +318,7 @@ nav ul {
     border-radius: 50%;
 }
 
-.testrectangle {
+.testRectangle {
     width: 36px;
     height: 2px;
     background: #ffffff;
