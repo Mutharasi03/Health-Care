@@ -323,7 +323,6 @@ nav ul {
 }
 
 .arrow {
-
     margin-top: 2540px;
     max-width: 200px;
     display: flex;
@@ -357,7 +356,6 @@ nav ul {
 .rightstart2 {
     position: absolute;
     right: -7%;
-
 }
 
 /*latest article */
@@ -378,8 +376,6 @@ nav ul {
     background: #FFFFFF;
     box-shadow: 10px 40px 50px rgba(229, 233, 246, 0.4);
     border-radius: 20px;
-
-
 }
 
 .article img {
