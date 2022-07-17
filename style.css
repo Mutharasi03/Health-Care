@@ -5,7 +5,6 @@
 
 body {
     font-family: 'Mulish';
-
 }
 
 .container {
@@ -19,7 +18,6 @@ nav {
     display: flex;
     align-items: center;
     justify-content: space-between;
-
 }
 
 nav ul {
@@ -53,7 +51,6 @@ nav ul {
 .navItems li {
     margin-right: 15px;
     list-style: none;
-
 }
 
 .navItems li a {
@@ -66,7 +63,7 @@ nav ul {
 }
 
 /*headercontent*/
-.home{
+.home {
     display: flex;
     align-items: center;
     justify-content: space-around;
@@ -120,7 +117,6 @@ nav ul {
     line-height: 56px;
     color: #000000;
     text-align: center;
-
 }
 
 .line {
@@ -131,7 +127,6 @@ nav ul {
     position: absolute;
     left: 50%;
     transform: translate(-60%, 50%);
-
 }
 
 .content2 {
@@ -149,7 +144,6 @@ nav ul {
     width: 918.54px;
     height: 867.94px;
     margin-top: 150px;
-
 }
 
 .services {
@@ -165,7 +159,6 @@ nav ul {
     grid-row-gap: 20px;
     grid-column-gap: 20px;
     z-index: 2;
-
 }
 
 .box {
@@ -186,7 +179,6 @@ nav ul {
     color: #7D7987;
     position: absolute;
     top: 60%;
-
 }
 
 .boxHeading {
@@ -258,8 +250,6 @@ nav ul {
     margin-top: 10%;
 }
 
-
-
 /*download*/
 .download {
     position: absolute;
@@ -291,11 +281,9 @@ nav ul {
     position: absolute;
     margin-top: 2200px;
     margin-left: 12%;
-
 }
 
 .testSection {
-
     display: grid;
     grid-auto-flow: column;
     gap: 24px;
