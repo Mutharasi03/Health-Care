@@ -76,7 +76,7 @@ nav ul {
     opacity: 0.5;
 }
 
-.navItems li a:hover {
+.navItems li a:hover{
     color: #458FF6;
     opacity: 1;
 }
